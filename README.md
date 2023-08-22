@@ -1,4 +1,4 @@
-👋 Hi, I’m Daniella, a forever-student, currently studying migration behaviour and physiology in :fish: . 
+👋 Hi, I’m Daniella, a forever-student, currently studying how :fish: are able to adapt to low oxygen in streams and wetlands.
 
 You can find out more about my research [here](http://daniella-lo.github.io)
 
